@@ -628,3 +628,26 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.08.28-01.12.41:570][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
 [2020.08.28-01.12.41:570][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
 [2020.08.28-01.12.41:570][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2020.08.28-01.12.55:938][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2020.08.28-01.12.56:953][  0]LogDerivedDataCache: Loaded boot cache 1.02s 76MB C:/Users/XaviPro/AppData/Local/UnrealEngine/4.25/DerivedDataCache/Boot.ddc.
+[2020.08.28-01.12.56:953][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/XaviPro/AppData/Local/UnrealEngine/4.25/DerivedDataCache/Boot.ddc
+[2020.08.28-01.12.56:954][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/XaviPro/Documents/GitHub/ARSolariss/Solaris/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2020.08.28-01.12.56:954][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2020.08.28-01.12.56:954][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/XaviPro/Documents/GitHub/ARSolariss/Solaris/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.08.28-01.12.56:954][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2020.08.28-01.12.56:971][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2020.08.28-01.12.56:972][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.08.28-01.12.56:972][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2020.08.28-01.12.56:973][  0]LogDerivedDataCache: Using Local data cache path C:/Users/XaviPro/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2020.08.28-01.12.56:974][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2020.08.28-01.12.56:974][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2020.08.28-01.12.57:054][  0]LogSlate: Using FreeType 2.10.0
+[2020.08.28-01.12.57:109][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2020.08.28-01.12.58:470][  0]LogAssetRegistry: FAssetRegistry took 0.0054 seconds to start up
+[2020.08.28-01.12.59:434][  0]LogInit: Selected Device Profile: [Windows]
+[2020.08.28-01.13.00:268][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2020.08.28-01.13.00:268][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2020.08.28-01.13.00:268][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2020.08.28-01.13.00:268][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2020.08.28-01.13.00:269][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2020.08.28-01.13.00:310][  0]LogNetVersion: Solaris 1.0.0, NetCL: 13144385, EngineNetVer: 14, GameNetVer: 0 (Checksum: 4187293739)
